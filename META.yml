@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Mozilla-CA
-version:            20110122
+version:            20110126
 abstract:           Mozilla's CA cert bundle in PEM format
 author:
     - Gisle Aas <gisle@activestate.com>
-license:            MPL
+license:            mozilla_1_1 gpl-2 lgpl_2_1
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
