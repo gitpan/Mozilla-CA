@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Mozilla-CA
-version:            20110301
+version:            20110409
 abstract:           Mozilla's CA cert bundle in PEM format
 author:
     - Gisle Aas <gisle@activestate.com>
